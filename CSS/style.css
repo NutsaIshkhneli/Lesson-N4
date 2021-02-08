@@ -11,6 +11,7 @@
 	display: inline-block;
 	vertical-align: middle;
 	margin-top: 30px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 
 .nav-li {
@@ -46,6 +47,7 @@ a {
 	margin-top: 119px;
 	margin-bottom: 31px;
 	font-size: 24px;
+	font-family: 'Pangolin', cursive;
 }
 
 .block1 {
@@ -76,11 +78,13 @@ a {
 	width: 355px;
 	vertical-align: middle;
 	font-size: 20px;
+	font-family: 'Lobster';
 }
 .title2 {
 	padding-left: 19px;
 	color: #3D58A6;
 	font-size: 22px;
+	font-family: 'Lobster';
 }
 
 .divider {
@@ -136,6 +140,7 @@ a {
 	margin-left: 31px;
 	margin-top: 33px;
 	margin-bottom: 14px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .img-div1 {
 	display: inline-block;
@@ -152,13 +157,16 @@ a {
 .div1-text1 {
 	font-size: 16px;
 	margin-bottom: 26px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .div1-text2 {
 	font-size: 16px;
 	margin-bottom: 26px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 .div1-text3 {
 	font-size: 16px;
+	font-family: 'BPG Nino Mtavruli Bold';
 }
 
 /*contact*/
@@ -169,11 +177,13 @@ a {
 .contactinfo {
 	color: #808080;
 	font-size: 16;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 .info {
 	color: #3D58A6;
 	font-size: 20px;
 	margin-bottom:4px;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 }
 
 .info-1 {
